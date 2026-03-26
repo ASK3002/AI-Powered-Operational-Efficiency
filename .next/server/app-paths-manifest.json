@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/summarizer/page": "app/summarizer/page.js",
+  "/drafting/page": "app/drafting/page.js",
+  "/prioritizer/page": "app/prioritizer/page.js",
+  "/qa/page": "app/qa/page.js"
+}
